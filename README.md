@@ -83,7 +83,8 @@ The analytics layer contains a fact table:
 ---
 
 ## Dashboard
-<img width="1173" height="803" alt="Screenshot 2026-01-12 at 04 24 23" src="https://github.com/user-attachments/assets/bc2ae8bb-aa12-4013-85e0-ae9318311a22" />
+<img width="1173" height="805" alt="Screenshot 2026-01-12 at 04 30 04" src="https://github.com/user-attachments/assets/e3f22f7c-dfa3-4794-8a4b-a38cbdd1d159" />
+
 
 A dashboard was built in **Looker Studio** to visualize business KPIs.
 
@@ -110,4 +111,5 @@ The dashboard is based on pre-aggregated SQL results to ensure consistent busine
 ## Author
 
 Samar Labidi
+
 
