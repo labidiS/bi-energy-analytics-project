@@ -83,6 +83,7 @@ The analytics layer contains a fact table:
 ---
 
 ## Dashboard
+<img width="1173" height="803" alt="Screenshot 2026-01-12 at 04 24 23" src="https://github.com/user-attachments/assets/bc2ae8bb-aa12-4013-85e0-ae9318311a22" />
 
 A dashboard was built in **Looker Studio** to visualize business KPIs.
 
@@ -103,21 +104,10 @@ The dashboard is based on pre-aggregated SQL results to ensure consistent busine
 * Separating data engineering, analytics, and BI layers
 * Communicating insights clearly through dashboards
 
----
-
-## How to Run (Local)
-
-1. Start PostgreSQL
-2. Run Python ingestion script:
-
-   ```bash
-   python python/ingest_raw_data.py
-   ```
-3. Execute SQL transformations in the `sql/` folder
-4. Explore analytics tables or export data for BI visualization
 
 ---
 
 ## Author
 
 Samar Labidi
+
